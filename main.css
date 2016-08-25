@@ -1,0 +1,55 @@
+body {
+    background-color: #ff8080;
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12 px;
+}
+
+h1 {
+    color: #80ffff;
+    text-align: center;
+    border-style: dotted;
+    border-width: 12px
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    border-color: #99ff99;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Indie Flower', cursive;
+    
+  
+}
+
+
+p {
+   font-family: 'Tillana', cursive;
+    font-size: 22px;
+
+}
+
+img { 
+   max-width: 100%;
+
+}
+
+
+a:link {
+    color: #884dff;
+     text-decoration: none;
+}
+
+a:visited {
+    color: #ffffff;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #884dff
+}
+
+a:active {
+    color: #88dfff;
+}
